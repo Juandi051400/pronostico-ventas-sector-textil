@@ -1,0 +1,13 @@
+# Los materiales privados se conservan fuera de este repositorio.
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.pbix
+*.zip
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
